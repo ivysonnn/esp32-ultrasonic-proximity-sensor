@@ -42,6 +42,6 @@ flowchart LR
 
 ## Com serial do Arduino IDE
 
-![Serial](assets/with_arduinoide_serial)
+![Serial](assets/with_arduinoide_serial.jpeg)
 
 > Meio borrado, mas funcionando
